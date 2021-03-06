@@ -4,14 +4,6 @@
 # In[1]:
 
 
-pip install pyttsx3 PyPDF2 
-
-
-# In[2]:
-
-
-pip install googletrans
-
 
 # In[3]:
 
